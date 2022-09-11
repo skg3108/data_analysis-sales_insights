@@ -5,7 +5,9 @@ An interactive dashboard is made using tableau for revenue analysis.
 Analysis is also done using MYSQL. 
 
 PDF file sales_insights.pdf contains all the visuals and dashboard.
-sales_insights.sql conatains query used for data analysis using MYSQL.
-db_dumb is the database file.
+
+sales_insights.sql contains query used for data analysis using MYSQL.
+
+db_dump.sql is the database file.
 
  
